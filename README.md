@@ -96,11 +96,10 @@ The Sink is positioned at:
 
 ```text
 (8.0, 6.5, 0)
-
+----
 Author
 
-**Syeda Nishat
-**
+**Syeda Nishat**
 Reinforcement Learning Research Project
 
 45-Node 3D Wireless Sensor Network
