@@ -101,7 +101,6 @@ The Sink is positioned at:
 
 ----
 Author
-
 **Syeda Nishat**
 Reinforcement Learning Research Project
 
