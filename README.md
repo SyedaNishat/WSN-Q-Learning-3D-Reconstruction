@@ -92,12 +92,9 @@ These values are **implementation assumptions** and are not claimed to be numeri
 
 A 45-node 3D wireless sensor network is reconstructed using the reported deployment dimensions.
 
-The Sink is positioned at:
+The Sink is positioned at: (8.0, 6.5, 0)
 
-```text
-(8.0, 6.5, 0)
 
-```text
 
 ----
 Author
